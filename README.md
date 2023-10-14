@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MadanYN
-- 👀 I’m interested in Processors, Embedding Systems
+- 👀 I’m interested in Computer Architecture and Embedding Systems
 
 <!---
 MadanYN/MadanYN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
